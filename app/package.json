@@ -1,7 +1,7 @@
 {
 	"name": "deezloader-app",
 	"productName": "Deezloader",
-	"version": "3.1.1", /* Should update this once we get the PR merged */
+	"version": "3.1.1",
 	"description": "Download music from Deezer",
 	"main": "main.js",
 	"author": "ExtendLord",
